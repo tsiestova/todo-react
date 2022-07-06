@@ -1,6 +1,5 @@
 # todo-react
 
 
-# Project
+[http:tsiestova.github.io/todo-react]
 
-http:tsiestova.github.io/todo-react
